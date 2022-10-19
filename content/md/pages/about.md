@@ -1,6 +1,6 @@
 {:title "about"
  :layout :page
- :page-index 1
+ :page-index 0
  :navbar? true}
 
 ## Hey!

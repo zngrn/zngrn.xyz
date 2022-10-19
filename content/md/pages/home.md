@@ -1,12 +1,10 @@
 {:title "zngrn"
  :layout :page
- :page-index 0
  :home? true
- :navbar? true}
+}
 
 ## Hey!
+
+![zngrn & Chloe in Autumn. Berlin.](/img/zngrn_chloe_berlin_autumn.jpg)
 &nbsp;  
 Welcome to my site! I am zngrn.
-&nbsp;  
-
-I live in Berlin.
