@@ -17,7 +17,7 @@
  :archive-group-format         "yyyy MMMM"
  :sass-src                     []
  :sass-path                    "sass"
- :theme                        "blue_centered"
+ :theme                        "self_centered"
  :resources                    ["img"]
  :keep-files                   [".git"]
  :disqus?                      false
