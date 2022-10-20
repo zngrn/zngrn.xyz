@@ -5,12 +5,12 @@
 
 ## Hey!
 &nbsp;  
-I'm Vaibhav Jhingran. I live in Berlin.
+My name is Vaibhav Jhingran. I usually go by the pseudonym ```zngrn``` online. I live in Berlin.
 &nbsp;  
 &nbsp;  
-I enjoy writing code and building scalable, performant software services.
+I enjoy writing code and building scalable, performant software systems.
 &nbsp;  
-I mostly like to program in ruby, python. I'm currently exploring clojure and occassionally write elementary scheme.
+I mostly like to program in ```ruby```, ```python``` or ```typescript```. I'm currently exploring ```clojure``` and occassionally write some amount of elementary ```scheme```.
 &nbsp;  
 &nbsp;  
 I currently work as a Senior Backend Engineer at [Babbel GmbH](https://babbel.com).
