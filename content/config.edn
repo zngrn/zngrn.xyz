@@ -18,7 +18,7 @@
  :sass-src                     []
  :sass-path                    "sass"
  :theme                        "self_centered"
- :resources                    ["img" "README.md" "CNAME"]
+ :resources                    ["img" "README.md" "CNAME" ".nojekyll"]
  :keep-files                   [".git"]
  :disqus?                      false
  :disqus-shortname             ""
