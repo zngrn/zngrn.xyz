@@ -4,16 +4,22 @@
  :navbar? true}
 
 ## Hey!
-&nbsp;  
-My name is Vaibhav Jhingran. I usually go by the pseudonym ```zngrn``` online. I live in Berlin.
-&nbsp;  
-&nbsp;  
-I enjoy writing code and building scalable, performant software systems.
-&nbsp;  
-I mostly like to program in ```ruby```, ```python``` or ```typescript```. I'm currently exploring ```clojure``` and occassionally write some amount of elementary ```scheme```.
-&nbsp;  
-&nbsp;  
-I currently work as a Senior Backend Engineer at [Babbel GmbH](https://babbel.com).
-&nbsp;  
-&nbsp;  
-I enjoy reading, playing my guitar and listening to classic rock & blues.
+
+
+My name is Vaibhav Jhingran. I usually go by the pseudonym ```zngrn``` online. I live in Berlin, Germany.
+
+
+I enjoy writing code and building distributed, scalable & performant software systems.
+
+
+I work at [Babbel GmbH](https://babbel.com) as a Senior Software Engineer with a focus on backend and distributed systems.
+
+
+I mostly like to program in ```ruby```, ```python```, ```clojure```  or ```typescript```. I occassionally write some amount of elementary ```scheme```. And I'm trying my hand at ```elisp``` to power up my ```emacs``` usage.
+
+
+You can find my notes on using ```emacs``` [here](https://github.com/zngrn/emacs-guide).
+
+
+I like to read, play guitar, walk & cycle around Berlin and chill at [Tempelhofer Feld](https://en.wikipedia.org/wiki/Tempelhofer_Feld).
+
